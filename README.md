@@ -12,6 +12,8 @@ It has a easy controller keys. WASD and Space will be enough to control your pla
 
 ![](Images/wholemap.png ) </br>
 
+![](Images/chapter2.png ) </br>
+
 
 # For the gameplay video : </br>
 [![Images/mainmenu.png ](https://img.youtube.com/vi/a_mZjOuIfpY/0.jpg)](https://www.youtube.com/watch?v=a_mZjOuIfpY)
