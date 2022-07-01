@@ -4,3 +4,10 @@ As I said I made this project to learn Unity and try some mechanics. If you want
 
 
 It has a easy controller keys. WASD and Space will be enough to control your player.
+
+
+![](Images/mainmenu.png ) </br>
+
+![](Images/chapter1.png ) </br>
+
+![](Images/wholemap.png ) </br>
