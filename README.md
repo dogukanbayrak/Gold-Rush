@@ -8,9 +8,15 @@ It has a easy controller keys. WASD and Space will be enough to control your pla
 
 ![](Images/mainmenu.png ) </br>
 
+# Chapter One
+
 ![](Images/chapter1.png ) </br>
 
+# Chapter One whole map
+
 ![](Images/wholemap.png ) </br>
+
+# Chapter Two
 
 ![](Images/chapter2.png ) </br>
 
